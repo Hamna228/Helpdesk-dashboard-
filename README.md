@@ -24,7 +24,6 @@ The dashboard was built using the following tools and technologies:
 
 ## 🔍 Data Source
 
-**Source**: Internal Helpdesk Operations Dataset  
 Contains over 100,000 ticket records including:
 * Status: Active, Closed, Unassigned  
 * Priority levels: High, Medium, Low  
@@ -80,6 +79,6 @@ Highlights distribution across High, Medium, Low, and Unassigned status—reveal
 
 ---
 
-## 📸 Screenshot / Demo  
+## 📸 Screenshot / Demo
 
-![Helpdesk Performance Dashboard](https://github.com/Hamna228/Helpdesk-dashboard-/commit/b53689b05e1b584692bd3a1cb623c8dcac664cef)
+![Helpdesk Performance Dashboard](https://github.com/Hamna228/Helpdesk-dashboard-/blob/main/Helpdesk%20dashboard.png)
